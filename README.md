@@ -15,6 +15,8 @@ The choice of model will depend on factors such as dataset size, feature represe
 
 ## Evaluation
 The performance of the language detection model will be assessed using metrics such as accuracy, precision, recall, and F1-score. Cross-validation techniques will be employed to ensure the generalization of the model.
+![Language Detection](CM.png)
+
 
 It detects:
 1. English - eng
